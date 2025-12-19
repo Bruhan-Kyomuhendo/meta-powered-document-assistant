@@ -22,10 +22,15 @@ It is implemented as a **Jupyter Notebook**, making it easy to understand, exten
 ## ✨ What This Tool Can Do
 
 ✔ Upload and process multiple document formats
+
 ✔ Break documents into meaningful, semantic chunks
+
 ✔ Build an intelligent search engine over the documents
+
 ✔ Ask natural questions in plain English
+
 ✔ Get accurate, document-grounded answers
+
 ✔ Compare and analyze information across multiple documents
 
 ---
